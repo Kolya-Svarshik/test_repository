@@ -78,6 +78,12 @@
       "idUser": 1,
       "crime": "Вкрав секс іграшку та згвалтував жінку 45-и років",
       "restrictionFreedom": 40
+    },
+    {
+      "id": 6,
+      "idUser": 1,
+      "crime": "Вкрав снікерс",
+      "restrictionFreedom": 3
     }
   ]
 }
